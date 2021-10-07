@@ -202,6 +202,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>Администратор</Role>
+			<Catalog>Справочник1</Catalog>
 			<Document>ДокументТест</Document>
 		</ChildObjects>
 	</Configuration>
